@@ -1,0 +1,4 @@
+# Database
+Database frontpage
+# The project is a simple front end to a number of reporting ervices reports which the school uses to store information on students progress.
+# The project does not touch any data directly, but simply offers the user the ability to choose an appropriate report to run. The reports are secured via in-built windows authentication.
